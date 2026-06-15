@@ -376,7 +376,7 @@ footer {
     visibility: visible;
     transform: translateY(0);
   }
-  header:has(input:checked) nav ul {
+  nav ul {
     flex-direction: row;
     flex-wrap: wrap;
     padding: 0;
